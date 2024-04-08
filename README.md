@@ -12,5 +12,5 @@ OpenCV
 Plyer
 For sending emails: smtplib and email
 You can install these dependencies using pip:
-
+'''sh
 pip install opencv-python plyer
